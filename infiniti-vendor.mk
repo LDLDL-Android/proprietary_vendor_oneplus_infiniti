@@ -1187,16 +1187,31 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/infiniti/proprietary/odm/lib64/camera/libpdCustomParam_Cam3.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/libpdCustomParam_Cam3.bin \
     vendor/oneplus/infiniti/proprietary/odm/lib64/camera/revision.txt:$(TARGET_COPY_OUT_ODM)/lib64/camera/revision.txt \
     vendor/oneplus/infiniti/proprietary/odm/vendor/etc/wifi/WCNSS_qcom_cfg.ini:$(TARGET_COPY_OUT_ODM)/vendor/etc/wifi/WCNSS_qcom_cfg.ini \
+    vendor/oneplus/infiniti/proprietary/product/etc/oplus_vrr_config.json:$(TARGET_COPY_OUT_PRODUCT)/etc/oplus_vrr_config.json \
+    vendor/oneplus/infiniti/proprietary/product/etc/permissions/oplus.product.display_features.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/oplus.product.display_features.xml \
+    vendor/oneplus/infiniti/proprietary/product/etc/permissions/oplus.product.display_system_features.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/oplus.product.display_system_features.xml \
     vendor/oneplus/infiniti/proprietary/product/etc/permissions/privapp-permissions-euiccgoogle.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/privapp-permissions-euiccgoogle.xml \
+    vendor/oneplus/infiniti/proprietary/product/etc/refresh_rate_config.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/refresh_rate_config.xml \
+    vendor/oneplus/infiniti/proprietary/product/etc/sys_dynamic_frame_config.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sys_dynamic_frame_config.xml \
     vendor/oneplus/infiniti/proprietary/vendor/etc/acdbdata/canoe_mtp/acdb_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/canoe_mtp/acdb_cal.acdb \
     vendor/oneplus/infiniti/proprietary/vendor/etc/display/sdm_display_resolution_extn.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display/sdm_display_resolution_extn.xml \
     vendor/oneplus/infiniti/proprietary/vendor/etc/display_apollo_list_AA601_P_7_A0020_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display_apollo_list_AA601_P_7_A0020_dsc_cmd_mode_panel.xml \
     vendor/oneplus/infiniti/proprietary/vendor/etc/display_apollo_list_AD296_P_3_A0020_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display_apollo_list_AD296_P_3_A0020_dsc_cmd_mode_panel.xml \
+    vendor/oneplus/infiniti/proprietary/vendor/etc/display_brightness_app_list.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display_brightness_app_list.xml \
+    vendor/oneplus/infiniti/proprietary/vendor/etc/display_brightness_config_P_3.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display_brightness_config_P_3.xml \
+    vendor/oneplus/infiniti/proprietary/vendor/etc/display_brightness_config_P_7.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display_brightness_config_P_7.xml \
+    vendor/oneplus/infiniti/proprietary/vendor/etc/display_frc_white_list.xml:$(TARGET_COPY_OUT_VENDOR)/etc/display_frc_white_list.xml \
     vendor/oneplus/infiniti/proprietary/vendor/etc/init/vendor.qti.camera.provider-service_64.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.qti.camera.provider-service_64.rc \
     vendor/oneplus/infiniti/proprietary/vendor/etc/libnfc-nci.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci.conf \
     vendor/oneplus/infiniti/proprietary/vendor/etc/ltm_config_AA601_P_7_A0020_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ltm_config_AA601_P_7_A0020_dsc_cmd_mode_panel.xml \
     vendor/oneplus/infiniti/proprietary/vendor/etc/ltm_config_AD296_P_3_A0020_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ltm_config_AD296_P_3_A0020_dsc_cmd_mode_panel.xml \
     vendor/oneplus/infiniti/proprietary/vendor/etc/media_codecs_dolby_vision.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_dolby_vision.xml \
+    vendor/oneplus/infiniti/proprietary/vendor/etc/multimedia_display_adfr2minfps_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/multimedia_display_adfr2minfps_config.xml \
+    vendor/oneplus/infiniti/proprietary/vendor/etc/multimedia_display_brightness_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/multimedia_display_brightness_config.xml \
+    vendor/oneplus/infiniti/proprietary/vendor/etc/multimedia_display_feature_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/multimedia_display_feature_config.xml \
+    vendor/oneplus/infiniti/proprietary/vendor/etc/multimedia_display_trackpoint_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/multimedia_display_trackpoint_config.xml \
+    vendor/oneplus/infiniti/proprietary/vendor/etc/multimedia_display_uir_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/multimedia_display_uir_config.xml \
+    vendor/oneplus/infiniti/proprietary/vendor/etc/multimedia_display_voltage_limit.xml:$(TARGET_COPY_OUT_VENDOR)/etc/multimedia_display_voltage_limit.xml \
     vendor/oneplus/infiniti/proprietary/vendor/etc/oplus_disp/display_apollo_list_AA601_P_7_A0020_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/oplus_disp/display_apollo_list_AA601_P_7_A0020_dsc_cmd_mode_panel.xml \
     vendor/oneplus/infiniti/proprietary/vendor/etc/oplus_disp/display_apollo_list_AD296_P_3_A0020_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/oplus_disp/display_apollo_list_AD296_P_3_A0020_dsc_cmd_mode_panel.xml \
     vendor/oneplus/infiniti/proprietary/vendor/etc/spr_cfg_AA601_P_7_A0020_dsc_cmd_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/spr_cfg_AA601_P_7_A0020_dsc_cmd_mode_panel.xml \
